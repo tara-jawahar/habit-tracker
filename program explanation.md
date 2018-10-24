@@ -1,4 +1,6 @@
 #Program Explanation
+
+
 The problem I am trying to solve is finding a way for users to quantitatively find a way to make a habit stick. 
 My program does this by using statistics and machine learning to map the course of the user’s habit and use past information to predict what the user should do next. 
 I have the user input their own data, and the program uses this data and the algorithms I have written to implement them. 
